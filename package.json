@@ -21,7 +21,7 @@
     "ejs": "^2.6.1",
     "exponential-moving-average": "^1.0.0",
     "fft-js": "0.0.11",
-    "grunt": "^0.4.5",
+    "grunt": "^1.3.0",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-html2js": "^0.7.1",
